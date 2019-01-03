@@ -1,7 +1,7 @@
 {
   "name": "@cleavera/config",
   "version": "1.0.0",
-  "description": "",
+  "description": "Shared configuration for projects to keep consistent linting rules across projects",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
