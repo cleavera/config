@@ -111,7 +111,6 @@
     "no-unsafe-finally": true,
     "no-unused-expression": true,
     "no-unused-variable": false,
-    "no-use-before-declare": true,
     "no-var-keyword": true,
     "no-void-expression": true,
     "radix": true,
